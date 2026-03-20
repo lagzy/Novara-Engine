@@ -1,7 +1,7 @@
 # Novara Engine
 
 <p align="center">
-  ><img width="629" height="719" alt="novara_logo" src="https://github.com/user-attachments/assets/1f72902c-c798-4394-b5cb-a7cc52469066" />
+  ><img width="300" height="350" alt="novara_logo" src="https://github.com/user-attachments/assets/1f72902c-c798-4394-b5cb-a7cc52469066" />
 
   </a>
 </p>
