@@ -1,8 +1,8 @@
 # Novara Engine
 
 <p align="center">
-  <a href="https://godotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Novara Engine logo">
+  ><img width="629" height="719" alt="novara_logo" src="https://github.com/user-attachments/assets/1f72902c-c798-4394-b5cb-a7cc52469066" />
+
   </a>
 </p>
 
